@@ -48,6 +48,10 @@ body{
     font-family: 'Roboto', sans-serif;
 
 }
+.contactsbod{
+    background-color: #e6d5b8;
+}
+
 
 .contacts{
     font-family: 'Space Mono', monospace;
@@ -60,7 +64,7 @@ body{
 .contactsli{
     width:100%;
     overflow:hidden;
-    background-color: red;
+    background-color: #e6d5b8;
 }
 .jumbotron-fluid{
     width: 50%;
@@ -74,11 +78,6 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 22px
 }
-#aboutBox{
-    background-color:#e6d5b8;
-}
-
-
 
 @media only screen and (max-width: 500px) {
     .h1{
